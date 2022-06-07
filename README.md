@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, My name is Bao</h1>
+<h1 align="center">Hi 👋, My name is Minh</h1>
 <h3 align="center">I'm a Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Construction Monitoring Website](http://caurongvang.vn/)
+- 🔭 I’m currently working on [Construction Monitoring Website](https://mdstudio.vn/)
 
 - 🌱 I’m currently learning **ASP.NET and C#**
 
-- 👨‍💻 All of my projects are available at [pgbnguyen.com](pgbnguyen.com)
+- 👨‍💻 All of my projects are available at [minhp.com](minhp.com)
 
-- 📫 How to reach me **pgbnguyen@gmail.com**
+- 📫 How to reach me **minhphung8898@gmail.com**
 
 - ⚡ Fun fact **I do powerlifting part-time and lifting up project full-time**
 
@@ -35,6 +35,6 @@
 📜Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Dev Blog Post](https://dev.to/pgbnguyen/my-first-dev-blog-post-31ab)
+- [My First Dev Blog Post](https://dev.to/minhp/my-first-dev-blog-post-31ab)
 <!-- BLOG-POST-LIST:END -->
 <p>
