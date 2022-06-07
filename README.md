@@ -19,9 +19,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pgbnguyen&label=Profile%20views&color=0e75b6&style=flat" alt="pgbnguyen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pgbnguyen" alt="pgbnguyen" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pgbnguyen" alt="modunnn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pgbnguyen" target="blank"><img src="https://img.shields.io/twitter/follow/pgbnguyen?logo=twitter&style=for-the-badge" alt="pgbnguyen" /></a> </p>
+<p align="left"> <a href="https://twitter.com/modunnn" target="blank"><img src="https://img.shields.io/twitter/follow/pgbnguyen?logo=twitter&style=for-the-badge" alt="modunnn" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
