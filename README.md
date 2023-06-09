@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Minh</h1>
 <h3 align="center">I'm a Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Construction Monitoring Website](https://mdstudio.vn/)
+- 🔭 I’m currently working on [Construction Monitoring Website](https://www.phungvanminh.com/)
 
 - 🌱 I’m currently learning **ASP.NET and C#**
 
@@ -35,6 +35,6 @@
 📜Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Dev Blog Post](https://dev.to/minhp/my-first-dev-blog-post-31ab)
+- [My First Dev Blog Post](https://www.phungvanminh.com/articles/)
 <!-- BLOG-POST-LIST:END -->
 <p>
