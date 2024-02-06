@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASP.NET and C#**
 
-- 👨‍💻 All of my projects are available at [minhp.com](minhp.com)
+- 👨‍💻 All of my projects are available at [phungvanminh.com](phungvanminh.com)
 
 - 📫 How to reach me **minhphung8898@gmail.com**
 
